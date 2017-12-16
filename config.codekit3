@@ -1329,10 +1329,260 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/build": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/build\/build",
+	"\/build\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/.gitignore",
+		"oF": 0
+		},
+	"\/build\/assets\/css\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/build\/assets\/css\/main.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/build\/assets\/img\/arrow-left.png": {
+		"ft": 32768,
+		"iS": 323,
+		"oA": 0,
+		"oAP": "\/build\/assets\/img\/arrow-left.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/build\/assets\/img\/arrow-right.png": {
+		"ft": 32768,
+		"iS": 338,
+		"oA": 0,
+		"oAP": "\/build\/assets\/img\/arrow-right.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/build\/assets\/img\/big-ben.png": {
+		"ft": 32768,
+		"iS": 1999,
+		"oA": 0,
+		"oAP": "\/build\/assets\/img\/big-ben.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/build\/assets\/img\/clouds-background.png": {
+		"ft": 32768,
+		"iS": 239437,
+		"oA": 0,
+		"oAP": "\/build\/assets\/img\/clouds-background.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/build\/assets\/img\/coffee-cup.png": {
+		"ft": 32768,
+		"iS": 2685,
+		"oA": 0,
+		"oAP": "\/build\/assets\/img\/coffee-cup.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/build\/assets\/img\/hamburger.png": {
+		"ft": 32768,
+		"iS": 2797,
+		"oA": 0,
+		"oAP": "\/build\/assets\/img\/hamburger.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/build\/assets\/img\/hero-bg.png": {
+		"ft": 32768,
+		"iS": 558648,
+		"oA": 0,
+		"oAP": "\/build\/assets\/img\/hero-bg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/build\/assets\/img\/hotel.png": {
+		"ft": 32768,
+		"iS": 1420,
+		"oA": 0,
+		"oAP": "\/build\/assets\/img\/hotel.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/build\/assets\/img\/logo.png": {
+		"ft": 32768,
+		"iS": 4019,
+		"oA": 0,
+		"oAP": "\/build\/assets\/img\/logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/build\/assets\/img\/london-bridge.png": {
+		"ft": 32768,
+		"iS": 125642,
+		"oA": 0,
+		"oAP": "\/build\/assets\/img\/london-bridge.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/build\/assets\/img\/museum.png": {
+		"ft": 32768,
+		"iS": 2923,
+		"oA": 0,
+		"oAP": "\/build\/assets\/img\/museum.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/build\/assets\/img\/news-1.png": {
+		"ft": 32768,
+		"iS": 66279,
+		"oA": 0,
+		"oAP": "\/build\/assets\/img\/news-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/build\/assets\/img\/news-2.png": {
+		"ft": 32768,
+		"iS": 65024,
+		"oA": 0,
+		"oAP": "\/build\/assets\/img\/news-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/build\/assets\/img\/ticket.png": {
+		"ft": 32768,
+		"iS": 3057,
+		"oA": 0,
+		"oAP": "\/build\/assets\/img\/ticket.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/build\/assets\/img\/trip-1.png": {
+		"ft": 32768,
+		"iS": 24598,
+		"oA": 0,
+		"oAP": "\/build\/assets\/img\/trip-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/build\/assets\/img\/trip-2.png": {
+		"ft": 32768,
+		"iS": 29749,
+		"oA": 0,
+		"oAP": "\/build\/assets\/img\/trip-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/build\/assets\/img\/trip-3.png": {
+		"ft": 32768,
+		"iS": 28592,
+		"oA": 0,
+		"oAP": "\/build\/assets\/img\/trip-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/build\/assets\/img\/trip-4.png": {
+		"ft": 32768,
+		"iS": 39044,
+		"oA": 0,
+		"oAP": "\/build\/assets\/img\/trip-4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/build\/assets\/js\/functions.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/build\/assets\/js\/functions.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/build\/assets\/js\/jquery-2.1.4.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/build\/assets\/js\/jquery-2.1.4.min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/build\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/index.html",
+		"oF": 0
+		},
+	"\/build\/README.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/README.html",
+		"oF": 0
+		},
+	"\/build\/sitemap.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/sitemap.xml",
 		"oF": 0
 		},
 	"\/index.html": {
