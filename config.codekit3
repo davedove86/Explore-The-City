@@ -1088,6 +1088,19 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/assets\/css\/4-pages\/_home.sass": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/4-pages\/_home.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/assets\/css\/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -1133,14 +1146,25 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/img\/big-ben.png": {
+	"\/assets\/img\/big-ben-white.png": {
 		"ft": 32768,
 		"iS": 3433,
+		"oA": 0,
+		"oAP": "\/assets\/img\/big-ben-white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/big-ben.png": {
+		"ft": 32768,
+		"iS": 3083,
 		"oA": 0,
 		"oAP": "\/assets\/img\/big-ben.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1155,6 +1179,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/coffee-cup-white.png": {
+		"ft": 32768,
+		"iS": 4431,
+		"oA": 0,
+		"oAP": "\/assets\/img\/coffee-cup-white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/img\/coffee-cup.png": {
 		"ft": 32768,
 		"iS": 3936,
@@ -1163,6 +1198,39 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/government-white.png": {
+		"ft": 32768,
+		"iS": 5316,
+		"oA": 0,
+		"oAP": "\/assets\/img\/government-white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/government.png": {
+		"ft": 32768,
+		"iS": 4872,
+		"oA": 0,
+		"oAP": "\/assets\/img\/government.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/hamburger-white.png": {
+		"ft": 32768,
+		"iS": 4882,
+		"oA": 0,
+		"oAP": "\/assets\/img\/hamburger-white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1185,6 +1253,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/hotel-white.png": {
+		"ft": 32768,
+		"iS": 3884,
+		"oA": 0,
+		"oAP": "\/assets\/img\/hotel-white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1221,17 +1300,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/img\/museum.png": {
-		"ft": 32768,
-		"iS": 4872,
-		"oA": 0,
-		"oAP": "\/assets\/img\/museum.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/assets\/img\/news-1.png": {
 		"ft": 32768,
 		"iS": 254497,
@@ -1251,6 +1319,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/ticket-white.png": {
+		"ft": 32768,
+		"iS": 4910,
+		"oA": 0,
+		"oAP": "\/assets\/img\/ticket-white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},

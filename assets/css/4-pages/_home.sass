@@ -1,0 +1,101 @@
+// services sections styles
+.services
+
+    .flex-wrap
+        display: flex
+        flex-wrap: wrap
+        justify-content: center
+        margin: 60px auto
+        text-align: center
+
+        .flex-item
+            margin: 30px
+            padding: 20px
+
+            img
+                // image height reduced
+                height: 60px
+            
+            p
+                width: 174px
+
+            // services icons
+            .hotel
+                background-image: url(../img/hotel.png)
+                background-size: cover
+                height: 60px
+                width: 64px
+                margin: 0 auto
+
+            .big-ben
+                background-image: url(../img/big-ben.png)
+                background-size: cover
+                height: 60px
+                width: 27px
+                margin: 0 auto
+
+            .burger
+                background-image: url(../img/hamburger.png)
+                background-size: cover
+                height: 60px
+                width: 65px
+                margin: 0 auto
+
+            .tickets
+                background-image: url(../img/ticket.png)
+                background-size: cover
+                height: 60px
+                width: 63px
+                margin: 0 auto
+
+            .coffee
+                background-image: url(../img/coffee-cup.png)
+                background-size: cover
+                height: 60px
+                width: 55px
+                margin: 0 auto
+
+            .government
+                background-image: url(../img/government.png)
+                background-size: cover
+                height: 60px
+                width: 66px
+                margin: 0 auto 
+            
+            // description text - main heading styles in base
+            .services-text
+                font:
+                    size: 14px
+                    weight: 300
+                color: #565656
+                margin: 0 auto
+        
+        // blue background on hover
+        .flex-item:hover
+            background-color: $accent-blue
+
+        // White hotel image on hover
+        .flex-item:hover .hotel
+            background-image: url(../img/hotel-white.png)
+        // White big ben image on hover
+        .flex-item:hover .big-ben
+            background-image: url(../img/big-ben-white.png)
+        // White hamburger image on hover
+        .flex-item:hover .burger
+            background-image: url(../img/hamburger-white.png)
+        // White ticket image on hover
+        .flex-item:hover .tickets
+            background-image: url(../img/ticket-white.png)
+        // White coffee cup image on hover
+        .flex-item:hover .coffee
+            background-image: url(../img/coffee-cup-white.png)
+        // White government image on hover
+        .flex-item:hover .government
+            background-image: url(../img/government-white.png)
+
+        // White paragragh & title color on hover
+        .flex-item:hover p
+            color: white
+
+        .flex-item:hover h3
+            color: white     

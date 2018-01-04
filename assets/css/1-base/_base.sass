@@ -5,42 +5,6 @@ h1, h2, h3, h4, h5, h6
   color: #5E6265
   font-weight: bold
 
-.gigantic
-  font-size: 110px
-  line-height: 1.09
-  letter-spacing: -2px
-
-.huge, h1
-  font-size: 60px
-  line-height: 1.05
-  letter-spacing: -1px
-
-.large, h2
-  font-size: 48px
-  line-height: 1.14
-
-.bigger, h3
-  font-size: 20px
-  line-height: 1.38
-
-.big, h4
-  font-size: 15px
-  line-height: 1.38
-
-.small, h5
-  font-size: 13px
-  line-height: 1.2
-
-.lead
-  line-height: 1.1
-  font-size: 36px
-
-  &.outdented
-    text-indent: -0.8em
-
-    @media (max-width: 640px)
-      text-indent: 0
-
 a
   color: #fff
   text-decoration: none
@@ -96,5 +60,16 @@ body
   -webkit-font-smoothing: antialiased
   -webkit-text-size-adjust: 100%
 
-  section
-    padding-top: 120px
+  main
+    background-image: linear-gradient(-180deg, #FFFFFF 0%, #C4E6F0 87%);
+
+    section
+      padding-top: 60px
+
+      // Sub Title Styles
+      .sub-title
+        font:
+          size: 14px
+          weight: 300
+        color: #565656
+        text-align: center
