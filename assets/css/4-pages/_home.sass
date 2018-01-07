@@ -17,7 +17,7 @@
         text-align: center
 
         .flex-item
-            margin: 30px
+            margin: 0 20px
             padding: 20px
 
             img
@@ -110,7 +110,7 @@
 
 // News Styles
 .news
-    padding-bottom: 30px
+    padding-bottom: 20px
     
     // section title
     .large-title
@@ -131,11 +131,13 @@
     //     text-align: center
     //     margin: 0
     //     padding: 0 20px
-
+    
+    // Flex Wrap
     .news-wrap
         display: flex
         padding: 0 20px
 
+    // News Items
     .news-item
         display: flex
         flex-direction: row
@@ -177,4 +179,65 @@
                 width: 400px
                 margin: 30px 0
                 box-shadow: 0px 2px 13px #CCCCCC
-                
+
+// About Section styles
+.about
+    background:
+        image: url(../img/clouds-background.png)
+        repeat: no-repeat
+        size: cover
+    // padding: 60px 0 0 0
+
+    // Flex Wrap
+    .about-flex
+        display: flex
+        flex-wrap: wrap
+        justify-content: center
+        padding: 10px 50px 50px 50px
+
+        // Flex item
+        .about-item
+            margin: 20px 0
+            padding: 20px
+            vertical-align: center
+            align-content: center
+
+            h3
+                font:
+                    size: 30px
+                    weight: 400
+                margin: 0
+
+            h3, p
+                margin: 20px 0
+                max-width: 460px
+
+
+            img
+                max-width: 460px
+            
+            // CTA button
+            .trans-button
+                border: 1px solid #000000
+                border-radius: 100px
+                height: 50px
+                width: 255px
+                text-transform: uppercase
+                letter-spacing: 3px
+                background-color: transparent
+
+            // CTA button hover effect
+            .trans-button:hover
+                box-shadow: 0px 2px 13px #CCCCCC 
+        
+        @media (max-width: 1099px)
+            // Algin all text center for mobiles
+            .about-item
+                text-align: center
+
+            @media (max-width: 550px)
+                    // Reduce london bridge image size 
+                    img
+                        max-width: 300px
+
+            
