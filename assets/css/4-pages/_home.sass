@@ -13,7 +13,7 @@
         display: flex
         flex-wrap: wrap
         justify-content: center
-        margin: 60px auto
+        margin: 20px auto
         text-align: center
 
         .flex-item
@@ -107,3 +107,74 @@
 
         .flex-item:hover h3
             color: white     
+
+// News Styles
+.news
+    padding-bottom: 30px
+    
+    // section title
+    .large-title
+        font:
+            size: 36px
+            weight: 300
+        text-align: center
+        margin: 20px 0
+        padding: 0 20px
+    
+    // .bg-title
+    //     position: absolute
+    //     font:
+    //         size: 288px
+    //     color: #4A4A4A
+    //     opacity: 0.09
+    //     letter-spacing: 3.29px
+    //     text-align: center
+    //     margin: 0
+    //     padding: 0 20px
+
+    .news-wrap
+        display: flex
+        padding: 0 20px
+
+    .news-item
+        display: flex
+        flex-direction: row
+        height: 400px
+        margin: 20px
+        background-color: #fff
+        box-shadow: 0px 2px 13px #CCCCCC
+        width: 80%
+        z-index: 1
+
+        .news-text
+            display: flex
+            flex-direction: column
+            flex-wrap: wrap
+            justify-content: center
+            padding: 0 20px 0 30px
+            width: 100%
+
+            h4
+                font:
+                    size: 24px
+                    weight: 400
+                margin: 0
+
+    @media (max-width: 1080px)
+        .news-wrap
+            display: flex
+            flex-wrap: wrap
+            justify-content: center
+        
+        .news-item
+            height: auto
+            flex-wrap: wrap
+            justify-content: center
+            text-align: center
+            padding: 0 30px
+
+            img
+                width: 400px
+                margin: 30px 0
+                box-shadow: 0px 2px 13px #CCCCCC
+                
