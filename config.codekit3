@@ -1075,6 +1075,19 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/assets\/css\/2-modules\/_footer.sass": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/2-modules\/_footer.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/assets\/css\/2-modules\/_header.sass": {
 		"aP": 1,
 		"bl": 0,
@@ -1198,6 +1211,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/controls.png": {
+		"ft": 32768,
+		"iS": 2241,
+		"oA": 0,
+		"oAP": "\/assets\/img\/controls.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
